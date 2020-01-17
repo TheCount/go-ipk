@@ -1,3 +1,6 @@
 # Editor files
 *~
 *.sw[op]
+
+# Generated files
+/go.sum
